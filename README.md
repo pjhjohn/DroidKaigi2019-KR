@@ -104,3 +104,10 @@
 - [ ] ExoPlayer in RecyclerView(*), a proposal
 - [ ] ハマった時に役立つ通信系デバッグの話
 - [ ] multi-module Androidアプリケーション
+
+
+
+### Contribution
+
+누구든 자유롭게 번역을 올려주실 수 있습니다.  
+언어 및 카테고리 라벨을 명시하여 세션 별로 Pull Request를 만들어 주세요!! 제목은 원문을 기재해주시면 됩니다 :)
