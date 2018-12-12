@@ -6,7 +6,7 @@
 
 ## ゼロから実装する縦書きTextViewとその周辺技術
 
-- 発表者: 六々 (@496_)
+- 発表者: `六々 (@496_)`
 - 50minutes
 - 日本語
 - その他 (Other)
@@ -19,7 +19,7 @@
 
 ## Android Thingsでプロダクト開発
 
-- 発表者: Takuya Kubota
+- 発表者: `Takuya Kubota`
 - 30minutes
 - 日本語
 - Androidプラットフォーム (Android Platforms)
@@ -34,7 +34,7 @@ Android Thingsを利用してプロトタイプから量産製品を開発しよ
 
 ## DialogFlowによる自然言語処理(NLP)を用いたボイスコマンド音声認識の精度向上
 
-- 発表者: KAKKA
+- 発表者: `KAKKA`
 - 30minutes
 - 日本語
 - その他 (Other)
@@ -49,7 +49,7 @@ DialogFlowによる自然言語処理に興味がある DialogFlowを使って�
 
 ## Android Studio設定見直してみませんか？
 
-- 発表者: shiraji
+- 発表者: `shiraji`
 - 30minutes
 - 日本語
 - 開発ツール (Productivity and Tools)
@@ -62,7 +62,7 @@ DialogFlowによる自然言語処理に興味がある DialogFlowを使って�
 
 ## Fast Prototypes with Flutter + Kotlin/Native
 
-- 発表者: JB Lorenzo
+- 発表者: `JB Lorenzo`
 - 30minutes
 - English
 - クロスプラットフォーム (Cross-platform Development)
@@ -77,7 +77,7 @@ Developers
 
 ## Dexs, R8 & 3.2
 
-- 発表者: Iñaki Villar
+- 発表者: `Iñaki Villar`
 - 30minutes
 - English
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -92,9 +92,7 @@ Android Developers with basic knowledge of the build process.
 
 ## Deep dive into MotionLayout
 
-- 発表者: thagikura
-- 発表者: John Hoford
-- 発表者: Nicolas Roard
+- 発表者: `thagikura` `John Hoford` `Nicolas Roard`
 - 50minutes
 - English
 - UI・デザイン (UI and Design)
@@ -107,7 +105,7 @@ Difficulty level : Beginner - Intermediate Target audience: Developers intereste
 
 ## Best practice for text on Android and its internals.
 
-- 発表者: Seigo Nonaka
+- 発表者: `Seigo Nonaka`
 - 50minutes
 - 日本語
 - Androidプラットフォーム (Android Platforms)
@@ -122,8 +120,7 @@ AndroidのTextViewを使ったことがある方 Androidが文字を表示する
 
 ## Trash Talk
 
-- 発表者: Romain Guy
-- 発表者: Chet Haase
+- 発表者: `Romain Guy` `Chet Haase`
 - 50minutes
 - English
 - Androidプラットフォーム (Android Platforms)
@@ -138,7 +135,7 @@ Any Android developer wanting to better understand the behavior of the Garbage C
 
 ## マルチモジュールプロジェクトでのDagger2を用いたDependency Injection
 
-- 発表者: kgmyshin
+- 発表者: `kgmyshin`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -151,7 +148,7 @@ Any Android developer wanting to better understand the behavior of the Garbage C
 
 ## 実践 Lottie
 
-- 発表者: kumanomi
+- 発表者: `kumanomi`
 - 30minutes
 - 日本語
 - 開発体制 (Development processes)
@@ -166,7 +163,7 @@ Lottieをまだ使ったことがない方 エンジニアの力を借りずに�
 
 ## PWAでここまで出来る
 
-- 発表者: SAMUKEI
+- 発表者: `SAMUKEI`
 - 30minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -181,8 +178,7 @@ PWAはJava/Kotlinなどのネイティブアプリと対立するわけではな
 
 ## Optimize Builds with Android Plugin for Gradle 3.3.0+
 
-- 発表者: Adarsh Fernando
-- 発表者: Izabela Orlowska
+- 発表者: `Adarsh Fernando` `Izabela Orlowska`
 - 30minutes
 - English
 - 開発ツール (Productivity and Tools)
@@ -195,7 +191,7 @@ Intermediate developers on moderately-sized teams that want to  improve build sp
 
 ## Grid systems and Android
 
-- 発表者: soham
+- 発表者: `soham`
 - 30minutes
 - English
 - UI・デザイン (UI and Design)
@@ -208,7 +204,7 @@ Intended audience - mobile designers: grid guidelines for android and the best p
 
 ## SpekでUnitTestを書こう
 
-- 発表者: morimoto ayako
+- 発表者: `morimoto ayako`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -221,7 +217,7 @@ Intended audience - mobile designers: grid guidelines for android and the best p
 
 ## 中規模以上のアプリ開発におけるCIレシピとリリースフロー戦略
 
-- 発表者: KazaKago
+- 発表者: `KazaKago`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -234,7 +230,7 @@ Intended audience - mobile designers: grid guidelines for android and the best p
 
 ## ああ、素晴らしきTDD ~アプリとエンジニアの心に安寧を~
 
-- 発表者: Saiki Iijima
+- 発表者: `Saiki Iijima`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -247,8 +243,7 @@ Intended audience - mobile designers: grid guidelines for android and the best p
 
 ## Journey of APK from compilation to launch
 
-- 発表者: Amanjeet Singh
-- 発表者: Romi Chandra
+- 発表者: `Amanjeet Singh` `Romi Chandra`
 - 50minutes
 - English
 - Androidプラットフォーム (Android Platforms)
@@ -261,7 +256,7 @@ Intermediate/Advance
 
 ## 今日から始める依存性の注入
 
-- 発表者: kobakei
+- 発表者: `kobakei`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -276,7 +271,7 @@ Intermediate/Advance
 
 ## ぼくのかんがえた最強のUsecaseの作り方~あるいはビジネスロジックとはなにかという1つの回答~
 
-- 発表者: Keisuke Kiuchi@fei_kome
+- 発表者: `Keisuke Kiuchi@fei_kome`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -291,7 +286,7 @@ Intermediate/Advance
 
 ## マテリアルデザインの起源とベースとなる哲学
 
-- 発表者: ken
+- 発表者: `ken`
 - 50minutes
 - 日本語
 - UI・デザイン (UI and Design)
@@ -306,7 +301,7 @@ Intermediate/Advance
 
 ## ちゃんとつくる Google Assistant アプリ
 
-- 発表者: sesta
+- 発表者: `sesta`
 - 30minutes
 - 日本語
 - Androidプラットフォーム (Android Platforms)
@@ -321,7 +316,7 @@ Google Assistant や Amazon Alexa といった音声アシスタントシステ�
 
 ## Android Vitals徹底活用
 
-- 発表者: kr9ly（からくり）
+- 発表者: `kr9ly（からくり）`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -334,7 +329,7 @@ Google Assistant や Amazon Alexa といった音声アシスタントシステ�
 
 ## Guide to app architectureを踏まえた既存アプリの設計改良
 
-- 発表者: nakamuuu
+- 発表者: `nakamuuu`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -349,7 +344,7 @@ Androidに限らずアプリケーションの開発において、設計・ア�
 
 ## What does "adb lolcat" do? A deep dive into adb
 
-- 発表者: 32bitdesi
+- 発表者: `32bitdesi`
 - 30minutes
 - English
 - 開発ツール (Productivity and Tools)
@@ -364,7 +359,7 @@ Intermediate Android developers would derive the most from this. Audience should
 
 ## 実践 WorkManager
 
-- 発表者: _atsushisakai
+- 発表者: `_atsushisakai`
 - 30minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -379,7 +374,7 @@ Intermediate Android developers would derive the most from this. Audience should
 
 ## Chromebookで始めるラップトップ向けAndroidアプリ
 
-- 発表者: Hosshan
+- 発表者: `Hosshan`
 - 30minutes
 - 日本語
 - その他 (Other)
@@ -394,7 +389,7 @@ ChromeOSに興味がある人、ラップトップ向け、キーボードあり
 
 ## Navigation Architecture Component によるアプリ内遷移の管理
 
-- 発表者: Yuta Takahashi
+- 発表者: `Yuta Takahashi`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -407,7 +402,7 @@ Navigation Architecture Component を使ったことがない方 / 使い始め�
 
 ## WiFi Direct + VpnServiceでSIM無しAndroidをWeb世界に社会復帰させる話
 
-- 発表者: soranakk
+- 発表者: `soranakk`
 - 50minutes
 - 日本語
 - その他 (Other)
@@ -422,7 +417,7 @@ Navigation Architecture Component を使ったことがない方 / 使い始め�
 
 ## Unit test for ViewModel and LiveData
 
-- 発表者: hkusu
+- 発表者: `hkusu`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -437,7 +432,7 @@ Android Architecture Components の ViewModel を利用した MVVM アーキテ�
 
 ## Lifecycle, LiveData, ViewModels - The inner wiring
 
-- 発表者: Florina Muntenescu
+- 発表者: `Florina Muntenescu`
 - 30minutes
 - English
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -452,7 +447,7 @@ No other knowledge needed
 
 ## From Monolithic to Modularized codebase with Dagger
 
-- 発表者: tsuyoyo
+- 発表者: `tsuyoyo`
 - 50minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -465,7 +460,7 @@ No other knowledge needed
 
 ## Spek2+MockK+JaCoCoでイケてるUnit Test環境を手に入れろ！
 
-- 発表者: Subroh Nishikori
+- 発表者: `Subroh Nishikori`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -478,7 +473,7 @@ No other knowledge needed
 
 ## All About Test of Flutter
 
-- 発表者: kikuchy
+- 発表者: `kikuchy`
 - 50minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -491,7 +486,7 @@ No other knowledge needed
 
 ## アプリをさらに成長させるための技術戦略（振り返りとこれから）
 
-- 発表者: shaunkawano
+- 発表者: `shaunkawano`
 - 50minutes
 - 日本語
 - 開発体制 (Development processes)
@@ -506,7 +501,7 @@ No other knowledge needed
 
 ## Not Just Rotation: Configuration Changes on Android
 
-- 発表者: Nicole Borrelli
+- 発表者: `Nicole Borrelli`
 - 30minutes
 - English
 - Androidプラットフォーム (Android Platforms)
@@ -521,7 +516,7 @@ The talk is aimed for beginner to intermediate Android developers. Having a basi
 
 ## The good and bad of modern app architecture
 
-- 発表者: Johannes
+- 発表者: `Johannes`
 - 30minutes
 - English
 - アプリアーキテクチャ (Designing App Architecture)
@@ -536,7 +531,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## 詳解定期購入
 
-- 発表者: Ryo Yamazaki
+- 発表者: `Ryo Yamazaki`
 - 50minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -551,7 +546,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## Chrome + WebAuthn で実現できるパスワードレスなユーザー認証体験と開発者の課題
 
-- 発表者: ritou
+- 発表者: `ritou`
 - 30minutes
 - 日本語
 - セキュリティ (Security)
@@ -562,8 +557,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## 外部デバイスと密に連携するAndroidアプリに最適なアーキテクチャとは？
 
-- 発表者: tomoya0x00
-- 発表者: Yuri Hondo
+- 発表者: `tomoya0x00` `Yuri Hondo`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -576,7 +570,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## Android アプリ開発における、デザイナーとエンジニアのワークフロー
 
-- 発表者: taquo
+- 発表者: `taquo`
 - 30minutes
 - 日本語
 - UI・デザイン (UI and Design)
@@ -591,8 +585,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## クロスプラットフォーム開発3種の神器 React Native / TypeScript / GraphQL
 
-- 発表者: takuji31
-- 発表者: Ryo Kitamura
+- 発表者: `takuji31` `Ryo Kitamura`
 - 50minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -607,7 +600,7 @@ Developers and software architects interested in a discussion about architecture
 
 ## マルチモジュールなプロジェクトでテストはどう変わる？
 
-- 発表者: Nozomi Takuma
+- 発表者: `Nozomi Takuma`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -622,7 +615,7 @@ Android開発にモジュール化の波が来ています。モジュール化�
 
 ## 巨大なアプリの開発を支えるフラグ管理術
 
-- 発表者: munetoshi
+- 発表者: `munetoshi`
 - 30minutes
 - 日本語
 - 開発体制 (Development processes)
@@ -635,8 +628,7 @@ Android開発にモジュール化の波が来ています。モジュール化�
 
 ## Code Review as a Collaborative Journey
 
-- 発表者: hydrakecat
-- 発表者: punchdrunker
+- 発表者: `hydrakecat` `punchdrunker`
 - 30minutes
 - English
 - 開発体制 (Development processes)
@@ -649,7 +641,7 @@ Android開発にモジュール化の波が来ています。モジュール化�
 
 ## Troubleshooting your designer's, and vector graphics
 
-- 発表者: Mitchell Tilbrook
+- 発表者: `Mitchell Tilbrook`
 - 30minutes
 - English
 - UI・デザイン (UI and Design)
@@ -664,7 +656,7 @@ Some experience with using Vector drawables
 
 ## Gradle BOM importでライブラリバージョン管理
 
-- 発表者: Kohei Yamamoto
+- 発表者: `Kohei Yamamoto`
 - 30minutes
 - 日本語
 - 開発ツール (Productivity and Tools)
@@ -677,7 +669,7 @@ Some experience with using Vector drawables
 
 ## BLEアプリ設計パターン
 
-- 発表者: 8yabusa
+- 発表者: `8yabusa`
 - 30minutes
 - 日本語
 - ハードウェア (Hardware)
@@ -690,7 +682,7 @@ Some experience with using Vector drawables
 
 ## カスタムブラウザの作り方 ー 実例から学ぶ Chrome と Firefox のカスタムビルド開発 ー
 
-- 発表者: dynamis
+- 発表者: `dynamis`
 - 50minutes
 - 日本語
 - その他 (Other)
@@ -705,7 +697,7 @@ Some experience with using Vector drawables
 
 ## FridaによるAndroidアプリの動的解析とフッキングの基礎
 
-- 発表者: Ken Kitahara
+- 発表者: `Ken Kitahara`
 - 30minutes
 - 日本語
 - セキュリティ (Security)
@@ -720,7 +712,7 @@ Fridaは主にモバイルアプリケーションをデバッグするための
 
 ## EspressoのテストをAndroidの最新トレンドに対応させよう
 
-- 発表者: 外山純生 (sumio_tym)
+- 発表者: `外山純生 (sumio_tym)`
 - 50minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -735,7 +727,7 @@ Androidを取り巻く状況はこの2年間で大きく変化しています。
 
 ## R8、Proguard徹底比較
 
-- 発表者: Sato Shun
+- 発表者: `Sato Shun`
 - 30minutes
 - 日本語
 - 開発ツール (Productivity and Tools)
@@ -750,7 +742,7 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## Deep Dive to fido.fido2 Packages
 
-- 発表者: ken5scal
+- 発表者: `ken5scal`
 - 50minutes
 - English
 - セキュリティ (Security)
@@ -763,7 +755,7 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## Redux for Android
 
-- 発表者: yuyakaido
+- 発表者: `yuyakaido`
 - 50minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -776,7 +768,7 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## Understanding Kotlin Coroutines: コルーチンで進化するアプリケーション開発
 
-- 発表者: mhidaka
+- 発表者: `mhidaka`
 - 50minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -789,7 +781,7 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## UIテスト(Espresso)の高速化をさらにすすめる
 
-- 発表者: tarappo
+- 発表者: `tarappo`
 - 30minutes
 - 日本語
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -804,7 +796,7 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## Android Enterpriseで実現できる端末管理の世界
 
-- 発表者: Daisuke
+- 発表者: `Daisuke`
 - 30minutes
 - 日本語
 - Androidプラットフォーム (Android Platforms)
@@ -817,12 +809,12 @@ R8はJavaコードを最適化されたdexコードに変換するためのシ�
 
 ## 2019年の技術であのARアプリを再現する
 
-- 発表者: KENICHI TAKAHASHI
+- 発表者: `KENICHI TAKAHASHI`
 - 30minutes
 - 日本語
 - xR
 
-ARCore, Sceneform, Firebase等, 2019年の技術を駆使してスマートフォン黎明期のARアプリであるセカイカメラを再現したらどのような構成になるのか試してみました（発表者は当時の開発メンバーの1人）。その過程を通じてScneformを使ってJavaで実装する方法、Cloud AnchorsとFirebaseを組み合わせてAR空間を共有するための実装をする方法等、AndroidでのARアプリの開発方法についてお話したいと思います。
+ARCore, Sceneform, Firebase等, 2019年の技術を駆使してスマートフォン黎明期のARアプリであるセカイカメラを再現したらどのような構成になるのか試してみました（発表者は当`時の開発メンバーの1人`）。その過程を通じてScneformを使ってJavaで実装する方法、Cloud AnchorsとFirebaseを組み合わせてAR空間を共有するための実装をする方法等、AndroidでのARアプリの開発方法についてお話したいと思います。
 
 受講対象者
 
@@ -832,7 +824,7 @@ Androidアプリを開発したことがあり、ARCoreを使ったARアプリ�
 
 ## From TensorFlow to ML Kit: power your Android application with machine learning
 
-- 発表者: Qian
+- 発表者: `Qian`
 - 30minutes
 - English
 - その他 (Other)
@@ -847,7 +839,7 @@ Android developers who are interested in getting to know how to leverage machine
 
 ## UI profiling in examples. Where is my bottleneck?
 
-- 発表者: Artur Badretdinov
+- 発表者: `Artur Badretdinov`
 - 50minutes
 - English
 - 保守・運用・テスト (Maintenance Operations and Testing)
@@ -862,7 +854,7 @@ People who have only a basic knowledge about UI profiling or doesn't have it at 
 
 ## つらいと評判のAndroid BLEを頑張って使い続けた話
 
-- 発表者: Kenta Harada
+- 発表者: `Kenta Harada`
 - 30minutes
 - 日本語
 - ハードウェア (Hardware)
@@ -875,7 +867,7 @@ People who have only a basic knowledge about UI profiling or doesn't have it at 
 
 ## Androidにおけるパフォーマンスチューニング実践
 
-- 発表者: neonankiti
+- 発表者: `neonankiti`
 - 50minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -888,7 +880,7 @@ People who have only a basic knowledge about UI profiling or doesn't have it at 
 
 ## build.gradle.ktsに移行しよう
 
-- 発表者: tnj
+- 発表者: `tnj`
 - 30minutes
 - 日本語
 - 開発ツール (Productivity and Tools)
@@ -901,7 +893,7 @@ People who have only a basic knowledge about UI profiling or doesn't have it at 
 
 ## LiveData と Coroutines で実装する DDD の戦術的設計
 
-- 発表者: Yuki Anzai
+- 発表者: `Yuki Anzai`
 - 50minutes
 - 日本語
 - その他 (Other)
@@ -916,7 +908,7 @@ Android アプリにドメイン駆動設計を取り入れたいと思ってい
 
 ## デザイナーとエンジニアの距離をより近づける Lottie 利用術
 
-- 発表者: bandwagondagon
+- 発表者: `bandwagondagon`
 - 30minutes
 - 日本語
 - UI・デザイン (UI and Design)
@@ -931,7 +923,7 @@ Android アプリにドメイン駆動設計を取り入れたいと思ってい
 
 ## いかにしてビットコインを扱うか
 
-- 発表者: ゆいき
+- 発表者: `ゆいき`
 - 30minutes
 - 日本語
 - その他 (Other)
@@ -946,7 +938,7 @@ Android アプリにドメイン駆動設計を取り入れたいと思ってい
 
 ## Slice Your App: Inside Slices and How to build it
 
-- 発表者: Hiroyuki Mori
+- 発表者: `Hiroyuki Mori`
 - 30minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -959,7 +951,7 @@ Android アプリにドメイン駆動設計を取り入れたいと思ってい
 
 ## Wi-Fi RTTによる屋内測位アプリを作ろう
 
-- 発表者: napplecomputer
+- 発表者: `napplecomputer`
 - 30minutes
 - 日本語
 - その他 (Other)
@@ -974,7 +966,7 @@ Android 9からWi-Fi RTT（Round-Trip-Time）に対応しました。 Wi-Fi RTT�
 
 ## FlutterでのWidgetツリーへの状態伝播とアクセス制限の基本戦略
 
-- 発表者: robo
+- 発表者: `robo`
 - 30minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -989,7 +981,7 @@ Flutter初学者の方 Widgetツリー構築コードのネストが深くなっ
 
 ## クロスプラットフォームモバイルアプリ開発ツール総ざらい2019 〜Titanium MobileからKotlin/Nativeまで〜
 
-- 発表者: amay077(あめい)
+- 発表者: `amay077(あめい)`
 - 30minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -1002,7 +994,7 @@ Flutter初学者の方 Widgetツリー構築コードのネストが深くなっ
 
 ## Exploring the Android Transform API
 
-- 発表者: Marcel Schnelle
+- 発表者: `Marcel Schnelle`
 - 30minutes
 - English
 - 開発ツール (Productivity and Tools)
@@ -1017,7 +1009,7 @@ Attendees are expected to be familiar with the concept of a Gradle plugin, howev
 
 ## Google Play Consoleのリリーストラックを有効活用してリリースフローの最適化を行った話
 
-- 発表者: litmon
+- 発表者: `litmon`
 - 30minutes
 - 日本語
 - 開発体制 (Development processes)
@@ -1030,7 +1022,7 @@ Attendees are expected to be familiar with the concept of a Gradle plugin, howev
 
 ## React NativeとExpoを用いたクロスプラットフォーム開発入門
 
-- 発表者: mrtry
+- 発表者: `mrtry`
 - 30minutes
 - 日本語
 - クロスプラットフォーム (Cross-platform Development)
@@ -1043,7 +1035,7 @@ Attendees are expected to be familiar with the concept of a Gradle plugin, howev
 
 ## Androidエンジニアが抑えておくべきUnicode Emojiの知識
 
-- 発表者: Takeichi Yuki
+- 発表者: `Takeichi Yuki`
 - 30minutes
 - 日本語
 - その他 (Other)
@@ -1056,7 +1048,7 @@ Attendees are expected to be familiar with the concept of a Gradle plugin, howev
 
 ## WebView+ViewGroupを実現するAOSPメールアプリの内部実装とニュースアプリへの応用
 
-- 発表者: ogapants
+- 発表者: `ogapants`
 - 30minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -1071,7 +1063,7 @@ AOSPで公開されている標準メールアプリのメッセージ詳細画�
 
 ## Sharing Code between iOS & Android with Rust
 
-- 発表者: Benedikt Terhechte
+- 発表者: `Benedikt Terhechte`
 - 50minutes
 - English
 - クロスプラットフォーム (Cross-platform Development)
@@ -1086,7 +1078,7 @@ People interested in sharing code cross platform. People interested in Rust, peo
 
 ## Server-side Kotlin for Frontend: 複雑なAndroidアプリ開発に対するアプローチ
 
-- 発表者: qsona
+- 発表者: `qsona`
 - 50minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
@@ -1101,7 +1093,7 @@ People interested in sharing code cross platform. People interested in Rust, peo
 
 ## Chrome Custom Tabsの仕組みから学ぶプロセス間通信
 
-- 発表者: OHMAE Ryosuke
+- 発表者: `OHMAE Ryosuke`
 - 30minutes
 - 日本語
 - Androidプラットフォーム (Android Platforms)
@@ -1116,7 +1108,7 @@ Androidアプリの開発経験のある方
 
 ## What is Navigation Architecture Component and Tips
 
-- 発表者: kettsun0123
+- 発表者: `kettsun0123`
 - 30minutes
 - 日本語
 - Android FrameworkとJetpack(Support Library) (Android Framework and Jetpack (a.k.a. Support Library))
@@ -1129,7 +1121,7 @@ Navigation Architecture Componentの使ったことがない・使ってみた�
 
 ## Master of Android Theme
 
-- 発表者: konifar
+- 発表者: `konifar`
 - 30minutes
 - English
 - UI・デザイン (UI and Design)
@@ -1144,12 +1136,12 @@ The people who doesn't use Android thene effectively Androidのthemeをうまく
 
 ## FCMを使った用途に合わせたPush通知設計
 
-- 発表者: Koji Okada
+- 発表者: `Koji Okada`
 - 30minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
 
-Push通知はアプリ利用者に対する何らかのイベントの発生、フォローしている人の新着情報、あるいはサービスやアプリ内機能の宣伝など多岐に渡る用途で使われています。 Push通知の開発を始めると、サーバーサイドですべての通知を制御するかアプリ側で通知をフィルタリングするか、あるいは高速に通知を配信するためにはどうすればいいかなど、様々な悩みが出てきます。 Push通知は幅広い用途に使われるため、こうすればすべて解決！という設計はなく、ケースバイケースで適した設計を考えなければいけません。  本セッションでは、Firebase Cloud Messaging(FCM)を利用して、用途にあわせた設計をアプリだけではなくサーバーサイドも含めて考察します。 まずはFCMでできることをおさらいした上で、具体的な設計の話に入ります。 また、実際の例として発表者が業務で開発しているアプリにおけるPush通知の設計も紹介します。
+Push通知はアプリ利用者に対する何らかのイベントの発生、フォローしている人の新着情報、あるいはサービスやアプリ内機能の宣伝など多岐に渡る用途で使われています。 Push通知の開発を始めると、サーバーサイドですべての通知を制御するかアプリ側で通知をフィルタリングするか、あるいは高速に通知を配信するためにはどうすればいいかなど、様々な悩みが出てきます。 Push通知は幅広い用途に使われるため、こうすればすべて解決！という設計はなく、ケースバイケースで適した設計を考えなければいけません。  本セッションでは、Firebase Cloud Messaging(FCM)を利用して、用途にあわせた設計をアプリだけではなくサーバーサイドも含めて考察します。 まずはFCMでできることをおさらいした上で、具体的な設計の話に入ります。 また、実際の例として発表者が業`務で開発しているアプリにおけるPush通知の設計も紹介します。`
 
 受講対象者
 
@@ -1159,7 +1151,7 @@ FCMでできることを知りたい方やPush通知をどのように実装す�
 
 ## Animations in Flutter
 
-- 発表者: Salih Guler
+- 発表者: `Salih Guler`
 - 30minutes
 - English
 - クロスプラットフォーム (Cross-platform Development)
@@ -1174,7 +1166,7 @@ It's for beginner and advanced developers who is into Flutter
 
 ## WebViewを守るSafe Browsingのコントロール
 
-- 発表者: Akihiro Shiota
+- 発表者: `Akihiro Shiota`
 - 30minutes
 - 日本語
 - セキュリティ (Security)
@@ -1189,7 +1181,7 @@ It's for beginner and advanced developers who is into Flutter
 
 ## Building for next billion
 
-- 発表者: Neil Mathew
+- 発表者: `Neil Mathew`
 - 30minutes
 - English
 - その他 (Other)
@@ -1204,7 +1196,7 @@ Developers, Entrepreneurs and the like looking to build applications for farmers
 
 ## シームレスに遷移可能な画面を他のアプリに提供する方法
 
-- 発表者: Takaki Hoshikawa
+- 発表者: `Takaki Hoshikawa`
 - 30minutes
 - 日本語
 - UI・デザイン (UI and Design)
@@ -1219,7 +1211,7 @@ Developers, Entrepreneurs and the like looking to build applications for farmers
 
 ## ExoPlayer in RecyclerView(*), a proposal
 
-- 発表者: eneim
+- 発表者: `eneim`
 - 30minutes
 - English
 - その他 (Other)
@@ -1232,7 +1224,7 @@ People who are interested in Media playback in Android, or RecyclerView, or both
 
 ## ハマった時に役立つ通信系デバッグの話
 
-- 発表者: inomata
+- 発表者: `inomata`
 - 30minutes
 - 日本語
 - 開発ツール (Productivity and Tools)
@@ -1245,7 +1237,7 @@ Android/iOS開発の経験があり、実業務でTCP/I通信周りで困った�
 
 ## multi-module Androidアプリケーション
 
-- 発表者: Jumpei Yamamoto
+- 発表者: `Jumpei Yamamoto`
 - 50minutes
 - 日本語
 - アプリアーキテクチャ (Designing App Architecture)
