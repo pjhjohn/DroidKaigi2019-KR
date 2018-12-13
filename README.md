@@ -17,7 +17,7 @@
 ## 번역 현황
 
 - [ ] ゼロから実装する縦書きTextViewとその周辺技術
-- [ ] Android Thingsでプロダクト開発
+- [x] Android Thingsでプロダクト開発
 - [ ] DialogFlowによる自然言語処理(NLP)を用いたボイスコマンド音声認識の精度向上
 - [ ] Android Studio設定見直してみませんか？
 - [ ] Fast Prototypes with Flutter + Kotlin/Native
