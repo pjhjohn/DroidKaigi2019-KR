@@ -39,20 +39,20 @@ iOS / UWP / Windows / macOS / Ubuntuなどの他プラットフォームでの�
 
 ---
 
-### Android Thingsでプロダクト開発
+### Android Things로 프로덕트 개발
 
 `30분` `일본어` `안드로이드 플랫폼`
 
 **발표자** `Takuya Kubota`
 
-Android ThingsのSoMを利用したプロダクト開発の実際について発表します。
+Android Things의 SoM을 이용한 프로덕트 개발의 실제에 대해 발표합니다.
 
-Android ThingsのSoMをメインコントローラーとして採用したプロダクトを2019年にローンチします。プロダクト開発を通して得たThingsのPros / Consやノウハウを可能な限り共有します。
+Android Things의 SoM을 메인 컨트롤러로 사용하는 프로덕트를 2019년에 런칭합니다. 프로덕트 개발을 통해 얻은 Android Things의 장단점이나 노하우를 가능한 한 공유합니다.
 
 **발표대상**
 
-Android Thingsを利用してプロトタイプから量産製品を開発しようと考えている方
-Android Thingsが実用的なのか疑問に感じている方
+Android Things를 이용하여 프로토타입부터 양산제품을 개발하고자 하는 분
+Android Things가 실용적인지에 대한 궁금증이 있으신 분
 
 ---
 
