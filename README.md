@@ -17,7 +17,7 @@
 ## 번역 현황
 
 - [ ] ゼロから実装する縦書きTextViewとその周辺技術
-- [x] Android Thingsでプロダクト開発
+- [x] ~~Android Thingsでプロダクト開発~~
 - [ ] DialogFlowによる自然言語処理(NLP)を用いたボイスコマンド音声認識の精度向上
 - [ ] Android Studio設定見直してみませんか？
 - [ ] Fast Prototypes with Flutter + Kotlin/Native
@@ -32,10 +32,10 @@
 - [ ] Grid systems and Android
 - [ ] SpekでUnitTestを書こう
 - [ ] 中規模以上のアプリ開発におけるCIレシピとリリースフロー戦略
-- [ ] ああ、素晴らしきTDD ~アプリとエンジニアの心に安寧を~
+- [ ] ああ、素晴らしきTDD 〜アプリとエンジニアの心に安寧を〜
 - [ ] Journey of APK from compilation to launch
 - [ ] 今日から始める依存性の注入
-- [ ] ぼくのかんがえた最強のUsecaseの作り方~あるいはビジネスロジックとはなにかという1つの回答~
+- [ ] ぼくのかんがえた最強のUsecaseの作り方〜あるいはビジネスロジックとはなにかという1つの回答〜
 - [ ] マテリアルデザインの起源とベースとなる哲学
 - [ ] ちゃんとつくる Google Assistant アプリ
 - [ ] Android Vitals徹底活用
