@@ -26,7 +26,7 @@
 - [ ] Best practice for text on Android and its internals.
 - [ ] Trash Talk
 - [ ] マルチモジュールプロジェクトでのDagger2を用いたDependency Injection
-- [ ] 実践 Lottie
+- [x] ~~実践 Lottie~~
 - [ ] PWAでここまで出来る
 - [ ] Optimize Builds with Android Plugin for Gradle 3.3.0+
 - [ ] Grid systems and Android
