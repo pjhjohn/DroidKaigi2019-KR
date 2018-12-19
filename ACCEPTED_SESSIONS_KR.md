@@ -1,41 +1,41 @@
 # 채택된 세션 목록 (88개 세션)
 
-### ゼロから実装する縦書きTextViewとその周辺技術
+### 제로부터 구현하는 세로쓰기 TextView와 주변기술
 
 `50분` `일본어` `기타`
 
 **발표자** `六々 (@496_)`
 
-View + InputConnection + Editable + Bitmapを使って縦書きのTextViewを実装した話をします。
-TextVIewやStringを使わなくても文字入力ができるViewを作ることが可能です。
+View + InputConnection + Editable + Bitmap를 사용해 세로쓰기 TextView를 구현한 이야기를 합니다.
+TextVIew나 String을 사용하지 않아도 문자입력이 가능한 View를 만들 수 있습니다.
 
-iOS / UWP / Windows / macOS / Ubuntuなどの他プラットフォームでの縦書きTextViewの実装経験も交えて、Androidでの縦書きTextView実装の概要と注意点について話します。
-また周辺技術としてUnicodeの話、OpenTypeの仕様を中心としたフォントの話もあります。
+iOS / UWP / Windows / macOS / Ubuntu 등 타플랫폼에서의 세로쓰기 TextView 구현 경험도 포함하여, Android에서의 세로쓰기 TextView 구현 개요와 주의점을 이야기합니다.
+또 주변기술로 Unicode 이야기, OpenType 사양을 중심으로 한 폰트 이야기도 있습니다.
 
-**内容**
+**내용**
 
-- TextViewとは何者か
-  - 文字列入力系としての側面
-  - フォント描画系としての側面
-- IMEとは何か
-  - 文字入力の仕組み
-  - IMEとアプリの関係性
-  - InputConnectionの罠
-- StringとEditableについて
-  - StringとAndroid Studioの関係 (閑話)
-- UnicodeとフォントからBitmapが作られるまで
-  - テキストレンダリングエンジン実装の概要
-  - フォントの役割とOpenTypeの仕様
-  - OpenTypeや文字列描画系から見たUnicode Emoji事情 (閑話)
-- 昨今のAndroid内のフォント事情
-  - Variable Fontの登場
-- 縦書きTextView実装で気をつけるべきこと
+- TextView는 누구인가
+  - 문자열을 입력하는 측면
+  - 폰트를 그리는 측면
+- IME는 무엇인가
+  - 문자입력 구조
+  - IME와 앱의 관계성
+  - InputConnection의 함정
+- String와 Editable에 대해서
+  - String와 Android Studio의 관계 (부록)
+- Unicode와 폰트로부터 Bitmap이 만들어질 때까지
+  - 텍스트 렌더링 엔진 구현 개요
+  - 폰트 역할과 OpenType 사양
+  - OpenType과 문자열을 그리는 것에서 본 Unicode Emoji 이야기 (부록)
+- 최근 Android 내의 폰트 이야기
+  - Variable Font의 등장
+- 세로쓰기 TextView 구현 시 주의점
 
 **발표대상**
 
-文字についてUnicode / IME / フォントと言われて何となくイメージが浮かぶ方を対象にしています。
+문자에 대해 Unicode / IME / 폰트 이미지가 떠오르는 분을 대상으로 합니다.
 
-特に: TextViewの独自実装に興味のある方 / 文字入力システムに興味のある方 / 文字描画システムに興味のある方 / 縦書きに興味のある方 に聞いてもらえると嬉しいです。
+특히: TextView의 독자구현에 관심이 있으신 분 / 문자입력 시스템에 관심이 있으신 분 / 문자를 그리는 시스템에 관심이 있으신 분 / 세로쓰기 관심 있는 분이 들으러 오시면 감사하겠습니다.
 
 ---
 
